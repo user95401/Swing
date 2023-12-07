@@ -12,8 +12,9 @@ WARN: its only a technical mod, it does not provide any resources (textures).
 - `portal_18_back_001.png` sprite in GJ_GameSheet02
 - `portal_18_shine_001.png` sprite in any sprite sheet
 - `gj_swingBtn_off_001.png` sprite any ways (single file or sprite sheet)
-[Download resourcepack by developer of this mod.](https://github.com/user95401/Swing/releases/tag/resourcepack)
-[Download resourcepacks by community...](https://github.com/user95401/Swing/discussions/1)
+
+##### [Download resourcepack by developer of this mod.](https://github.com/user95401/Swing/releases/tag/resourcepack)
+##### [Download resourcepacks by community...](https://github.com/user95401/Swing/discussions/1)
 
 Made with curly-eureka, only for Windows.
 
