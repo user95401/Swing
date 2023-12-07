@@ -1,0 +1,80 @@
+{
+	"geode": "1.0.0-beta.16",
+	"version": "${version}",
+	"id": "${developer}.${PROJECT_NAME}",
+	"name": "${PROJECT_NAME}",
+	"developer": "${developer}",
+	"description": "${description}",
+	"repository": "${repository}",
+	"early-load": true,
+	"issues": {
+		"url": "${issues_url}",
+		"info": "${issues_info}"
+	},
+	"settings": {
+		"header": {
+			"name": "---------------------------",
+			"type": "color",
+			"default": "#1d1d1d"
+		},
+		"OpenSwingSelectPop": {
+			"name": "!sign2,OpenSwingSelectPop",
+			"description": "!>OpenSwingSelectPop",
+			"type": "color",
+			"default": "#1d1d1d"
+		},
+		"SwingIni": {
+			"name": "!FName,Swing.ini",
+			"description": "!FOpen,SwingIni,geode/config/Swing.ini",
+			"type": "color",
+			"default": "#1d1d1d"
+		},
+		"TouchGarage": {
+			"name": "!VName,TouchGarage",
+			"description": "!BVSPop,TouchGarage,Swing,geode/config/Swing.ini,add stuff on garage layer",
+			"type": "color",
+			"default": "#1d1d1d"
+		},
+		"AddSwingPortal": {
+			"name": "!VName,AddSwingPortal",
+			"description": "!BVSPop,AddSwingPortal,Swing,geode/config/Swing.ini,add custom swing portal game object",
+			"type": "color",
+			"default": "#1d1d1d"
+		},
+		"AddObjectAtIndex": {
+			"name": "!VName,AddObjectAtIndex",
+			"description": "!VSPop,AddObjectAtIndex,Swing,geode/config/Swing.ini,to change place in create tab",
+			"type": "color",
+			"default": "#1d1d1d"
+		},
+		"AddObjectToTab": {
+			"name": "!VName,AddObjectToTab",
+			"description": "!VSPop,AddObjectToTab,Swing,geode/config/Swing.ini,to change tab",
+			"type": "color",
+			"default": "#1d1d1d"
+		},
+		"AddBackPart": {
+			"name": "!VName,AddBackPart",
+			"description": "!BVSPop,AddBackPart,Swing,geode/config/Swing.ini,add back part sprite for custom swing portal",
+			"type": "color",
+			"default": "#1d1d1d"
+		},
+		"AddParticles": {
+			"name": "!VName,AddParticles",
+			"description": "!BVSPop,AddParticles,Swing,geode/config/Swing.ini,add particles for portal",
+			"type": "color",
+			"default": "#1d1d1d"
+		},
+		"ReplaceShip": {
+			"name": "!VName,ReplaceShip",
+			"description": "!BVSPop,ReplaceShip,Swing,geode/config/Swing.ini,ship becomes swing",
+			"type": "color",
+			"default": "#1d1d1d"
+		},
+		"footer": {
+			"name": "---------------------------",
+			"type": "color",
+			"default": "#1d1d1d"
+		}
+	}
+}
