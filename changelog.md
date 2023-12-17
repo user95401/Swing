@@ -1,6 +1,6 @@
 # v1.1.0
 
- * port to gode
+ * port to geode sdk
  * yellow portal circle effect
  * joke option "EditorParticles"
 
